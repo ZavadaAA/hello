@@ -3,3 +3,4 @@ spring is coming
 
 hello, world!
 hello, Git!
+hello, Git rebase!
