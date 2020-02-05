@@ -1,4 +1,5 @@
 spring is coming
 все будет хорошо
-все точно будет хорошо
+
 hello, world!
+hello, Git!
